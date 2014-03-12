@@ -3,5 +3,6 @@ script: "sbt clean coveralls"
 
 scala:
    - 2.10.2
+
 jdk:
    - oraclejdk7
